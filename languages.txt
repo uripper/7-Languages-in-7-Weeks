@@ -1,0 +1,22 @@
+Somewhat inspired by the book 7 Programming Languages in 7 Weeks, but not really. Just thought it would be fun to try out some new languages, definitely some shared with the book.
+
+Week 1:
+Haskell
+
+Week 2:
+Clojure
+
+Week 3:
+Kotlin
+
+Week 4:
+Elixir
+
+Week 5:
+V
+
+Week 6:
+Go
+
+Week 7:
+Rust
