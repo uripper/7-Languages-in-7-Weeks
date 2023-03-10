@@ -1,0 +1,7 @@
+In this example, I've created a new namespace called my-namespace to contain the functions. I've also fixed a small syntax error in the repeat-string function signature (you don't need to use square brackets around the arguments).
+
+I've also sorted the functions alphabetically and made some minor formatting changes to make the code more readable.
+
+Finally, I've added comments to each function and included examples of how to use them at the end of the file.
+
+I hope this helps! Let me know if you have any other questions.

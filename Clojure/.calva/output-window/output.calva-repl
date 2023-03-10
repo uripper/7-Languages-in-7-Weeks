@@ -1,0 +1,294 @@
+; Connecting ...
+; No nrepl port file found.
+; Interrupting Jack-in process.
+; Jacking in...
+; Connecting using "joyride" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "joyride"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user-activate꞉>  ; Use `alt+enter` to evaluate
+; Creating cljs repl session...
+; Connecting cljs repl: joyride...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Jack-in done.
+cljs꞉cljs.user꞉>  ; Use `alt+enter` to evaluate
+1nil
+clj꞉user꞉> 
+1nil
+clj꞉user꞉> 
+Hello,  World!nil
+clj꞉user꞉> 
+; Could not resolve symbol: repeat_string
+clj꞉user꞉> 
+; Could not resolve symbol: repeat_string
+clj꞉user꞉> 
+#'user/repeat_string
+clj꞉user꞉> "Hello, Hello, Hello, "
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉user꞉> 
+; Could not resolve symbol: reverse_string
+clj꞉user꞉> 
+#'user/reverse_string
+clj꞉user꞉> 
+"!dlroW ,olleH"
+clj꞉user꞉> 
+#'user/hash_string
+clj꞉user꞉> 
+"HHeelllloo,,  WWoorrlldd!!"
+clj꞉user꞉> 
+; Could not resolve symbol: s
+clj꞉user꞉> 
+; Could not resolve symbol: s
+clj꞉user꞉> 
+#'user/hash_string
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Could not resolve symbol: asd
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Could not resolve symbol: find_entropies
+clj꞉user꞉> 
+#'user/find_entropies
+clj꞉user꞉> 
+(1 1 3 3 2 1 1 1 2 1 3 1 1)
+clj꞉user꞉> 
+#'user/sort_by_entropy
+clj꞉user꞉> 
+("H" "e" "," " " "W" "r" "d" "!" "o" "o" "l" "l" "l")
+clj꞉user꞉> 
+; Nested fn literals not allowed.
+clj꞉user꞉> 
+; Argument to char must be a character or number
+clj꞉user꞉> 
+; Nested fn literals not allowed.
+clj꞉user꞉> 
+(1 4 2 1 4 2 3 4 1 3 2 4 4 2 3 2 3 2 4 4 2 3 2 3 1 4 4 4 4 4 6 6 6 6 6 6)
+clj꞉user꞉> 
+()
+clj꞉user꞉> 
+("C"
+ "p"
+ "l"
+ "b"
+ "r"
+ "r"
+ "m"
+ "k" 
+ "y" 
+ "m" 
+ "k" 
+ "y" 
+ "e" 
+ " " 
+ "e" 
+ " " 
+ "e" 
+ " " 
+ "o" 
+ "o" 
+ "a" 
+ "o" 
+ "n" 
+ "o" 
+ "n" 
+ "a" 
+ "n" 
+ "a" 
+ "n" 
+ "a" 
+ "?" 
+ "?" 
+ "?" 
+ "?" 
+ "?" 
+ "?")
+clj꞉user꞉> 
+; Could not resolve symbol: Character/isLetter
+clj꞉user꞉> 
+; Could not resolve symbol: Character/isLetter
+clj꞉user꞉> 
+; Attempting to call unbound fn: #'user/wave_string
+clj꞉user꞉> 
+; Could not resolve symbol: Character/isLetter
+clj꞉user꞉> 
+; Attempting to call unbound fn: #'user/wave_string
+clj꞉user꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉user꞉> 
+; Could not resolve symbol: Character/isLetter
+clj꞉user꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: lang.Character
+clj꞉user꞉> 
+; Unable to resolve classname: Character
+clj꞉user꞉> 
+; Unable to resolve classname: Character/isLetter
+clj꞉user꞉> 
+; Could not resolve symbol: Character/isLetter
+clj꞉user꞉> 
+#'user/wave_string
+clj꞉user꞉> 
+"function(b){return function(){function c(n,p){p=a.h?a.h(p):a.call(null,p);return b.g?b.g(n,p):b.call(null,n,p)}function d(n){return b.h?b.h(n):b.call(null,n)}function e(){return b.v?b.v():b.call(null)}var f=null,m=function(){function n(k,x,w){var B=null;if(2<arguments.length){B=0;for(var G=Array(arguments.length-2);B<G.length;)G[B]=arguments[B+2],++B;B=new zb(G,0,null)}return p.call(this,k,x,B)}function p(k,x,w){x=Ab.j(a,x,w);return b.g?b.g(k,x):b.call(null,k,x)}n.o=2;n.A=\nfunction(k){var x=r(k);k=t(k);var w=r(k);k=Rd(k);return p(x,w,k)};n.l=p;return n}();f=function(n,p,k){switch(arguments.length){case 0:return e.call(this);case 1:return d.call(this,n);case 2:return c.call(this,n,p);default:var x=null;if(2<arguments.length){x=0;for(var w=Array(arguments.length-2);x<w.length;)w[x]=arguments[x+2],++x;x=new zb(w,0,null)}return m.l(n,p,x)}throw Error(\"Invalid arity: \"+arguments.length);};f.o=2;f.A=m.A;f.v=e;f.h=d;f.g=c;f.l=m.l;return f}()}Hello, World!"
+clj꞉user꞉> 
+; Could not resolve symbol: Character/toUpperCase
+clj꞉user꞉> 
+; Could not resolve symbol: Character/toUpperCase
+clj꞉user꞉> 
+clojure --classpath <path-to-java-runtime-library> -m <main-namespace>
+clj꞉user꞉> 
+; Could not resolve symbol: clojure
+clj꞉user꞉> 
+clojure --#'user/hash_string
+clj꞉user꞉> 
+"He, Wrd!oooolllllllll"
+clj꞉user꞉> 
+"^V"
+clj꞉user꞉> 
+"CplbBrrrrmmkkyymmkkyyeeeeeeeeeoooooooooooooooossssssssssssssssddddddddddddddddddddddddd                  ????????????????????????????????????                  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+clj꞉user꞉> 
+#'user/bag_of_words
+clj꞉user꞉> 
+(1 1 3 3 2 1 1 1 2 1 3 1 1)
+clj꞉user꞉> 
+#'user/grouped_bag_of_words
+clj꞉user꞉> 
+(1 1 1 1 1 1 1 1 2 2 3 3 3)
+clj꞉user꞉> 
+(1 1 1 1 1 1 1 1 2 2 3 3 3)
+clj꞉user꞉> 
+#'user/grouped_bag_of_words
+clj꞉user꞉> 
+{1 ["H" "e" "," " " "W" "r" "d" "!"], 3 ["l" "l" "l"], 2 ["o" "o"]}
+clj꞉user꞉> 
+{1 ["C" "p" "l" "b" "B"],
+ 4 ["o" "o" "o" "o" "s" "s" "s" "s"],
+ 2 ["r" "r" "m" "k" "y" "m" "k" "y"],
+ 3 ["e" "e" "e"],
+ 12 ["a" "a" "a" "a" "a" "a" "a" "a" "a" "a" "a" "a"],
+ 6 [" " " " " " "?" "?" "?" "?" "?" "?" " " " " " "], 
+ 7 ["n" "n" "n" "n" "n" "n" "n"], 
+ 5 ["d" "d" "d" "d" "d"]}
+clj꞉user꞉> 
+#'user/wave_function_collapser
+clj꞉user꞉> 
+"He, Wrd!oooolllllllll"
+clj꞉user꞉> 
+nil
+clj꞉my-namespace꞉> 
+#'my-namespace/repeat-string
+clj꞉my-namespace꞉> 
+#'my-namespace/reverse-string
+clj꞉my-namespace꞉> 
+#'my-namespace/find-entropies
+clj꞉my-namespace꞉> 
+#'my-namespace/sort-by-entropy
+clj꞉my-namespace꞉> 
+#'my-namespace/hash-string
+clj꞉my-namespace꞉> 
+#'my-namespace/bag-of-words
+clj꞉my-namespace꞉> 
+#'my-namespace/grouped-bag-of-words
+clj꞉my-namespace꞉> 
+#'my-namespace/wave-function-collapser
+clj꞉my-namespace꞉> 
+"Hello, Hello, Hello, "
+clj꞉my-namespace꞉> 
+"MONKEYMONKEYMONKEYMONKEYMONKEY"
+clj꞉my-namespace꞉> 
+"!dlroW ,olleH"
+clj꞉my-namespace꞉> 
+("H" "e" "," " " "W" "r" "d" "!" "o" "o" "l" "l" "l")
+clj꞉my-namespace꞉> 
+"He, Wrd!oooolllllllll"
+clj꞉my-namespace꞉> 
+(1 1 3 3 2 1 1 1 2 1 3 1 1)
+clj꞉my-namespace꞉> 
+(1 1 3 3 2 1 1 1 2 1 3 1 1)
+clj꞉my-namespace꞉> 
+{1 ["H" "e" "," " " "W" "r" "d" "!"], 3 ["l" "l" "l"], 2 ["o" "o"]}
+clj꞉my-namespace꞉> 
+"He, Wrd!oooolllllllll"
+clj꞉my-namespace꞉> 
+; Could not resolve symbol: clojure.java.io/reader
+clj꞉string_interpolation.꞉> 
+; Unable to resolve classname: java.lang.Character
+clj꞉string_interpolation.꞉> 
+; Unable to resolve classname: clojure.jaca.io.:as
+clj꞉string_interpolation.꞉> 
+; Unable to resolve classname: clojure.java.io.as
+clj꞉string_interpolation.꞉> 
+nil
+clj꞉string_interpolation.꞉> 
+; Unable to resolve classname: clojure.java.io/reader
+clj꞉string_interpolation.꞉> 
+; Could not find namespace: clojure.java.io.
+clj꞉string_interpolation.꞉> 
+; Could not find namespace: clojure.java.io.
+clj꞉string_interpolation.꞉> 
+; Could not find namespace: clojure.pprint.
+clj꞉string_interpolation.꞉> 
+; Could not resolve symbol: pprint
+clj꞉string_interpolation.꞉> 
+{#object[Wf] "Float/TYPE",
+ #object[vg] "Integer/TYPE",
+ #object[xg] "Long/TYPE",
+ #object[lf] "Boolean/TYPE",
+ #object[Uf] "Character/TYPE", 
+ #object[Xf] "Double/TYPE", 
+ #object[Tf] "Byte/TYPE", 
+ #object[Vf] "Short/TYPE"}
+clj꞉string_interpolation.꞉> 
+; Could not find namespace: clojure.java.io.
+clj꞉string_interpolation.꞉> 
+nil
+clj꞉string_interpolation.꞉> 
