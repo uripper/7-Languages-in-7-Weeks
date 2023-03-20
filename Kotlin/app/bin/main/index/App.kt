@@ -39,4 +39,21 @@ fun main (){
     var data_class_instance = DataClass("John Doe", 20)
 
     println(data_class_instance)
+
+    // 4. Kotlin has a feature called "Extension Functions" which means that you can add functions to existing classes
+
+    // This will throw an error
+    // fun String.addHello() {
+    //     return "Hello $this"
+    // }
+
+    // This will not throw an error
+
+    fun String.addHello() = "Hello $this"
+
+    // Using the extension function
+    var extension_function_instance = "John Doe".addHello()
+
+    println(extension_function_instance)
+
 }
